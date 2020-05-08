@@ -17,5 +17,5 @@ the directory contains two file
 staff.txt
 customer.txt
 
-if the customer file is empty, it should contain an empty list eg []
+if the customer file is empty, it should contain an empty list eg [ ]
 unless its not empty
