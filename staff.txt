@@ -1,0 +1,2 @@
+[{"username":"onyeka","password":"onyeka1234","Email":"emekanaija@yahoo.com","full name":"onyeka segun"},
+{"username":"chibuzo","password":"password1","Email":"jamesbond@yahoo.com","full name":"wale adenuga"}]
